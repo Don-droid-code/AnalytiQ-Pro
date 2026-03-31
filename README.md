@@ -27,9 +27,10 @@ No black boxes – you see how the result is built.
 - **AI:** Gemini 1.5 Pro (Google AI Studio)  
 - **Valuation Engine:** Excel‑based 6‑dimension matrix translated into SQL queries  
 
-[Full Technical Spec V1.3](./docs/Technical_Specifications_V1.3_EN.md)
-[Business Valuation Matrix](./docs/Business_Valuation_Matrix.xlsx) see [usage license](./docs/MATRIX_LICENSE.md) 
-[ADR – Why SQLite for MVP](./docs/ADR_SQLite_MVP.md)
+📘 [Full Technical Spec V1.3](./docs/Technical_Specifications_V1.3_EN.md)  
+📊 [Business Valuation Matrix](./docs/Business_Valuation_Matrix.xlsx)  
+🧠 [ADR – Why SQLite for MVP](./docs/ADR_SQLite_MVP.md)  
+⚖️ [Matrix Usage License](./docs/MATRIX_LICENSE.md)
 
 ---
 
