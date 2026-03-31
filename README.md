@@ -19,11 +19,17 @@ No black boxes – you see how the result is built.
 
 ## ⚙️ Tech Stack (V1.2)
 
+## ⚙️ Tech Stack (MVP – V1.3)
+
 - **Frontend:** React / Vue.js  
 - **Backend:** FastAPI (Python)  
-- **Database:** PostgreSQL (Supabase free tier)  
+- **Database:** **SQLite** (local `.db` file – easy to version, easy to migrate later)  
 - **AI:** Gemini 1.5 Pro (Google AI Studio)  
-- **Processing:** Pandas, NumPy
+- **Valuation Engine:** Excel‑based 6‑dimension matrix translated into SQL queries  
+
+📘 [Full Technical Spec V1.3](./docs/Technical_Specifications_V1.3_EN.md)  
+📊 [Business Valuation Matrix](./docs/Business_Valuation_Matrix.xlsx)  
+🧠 [ADR – Why SQLite for MVP](./docs/ADR_SQLite_MVP.md)
 
 ---
 
