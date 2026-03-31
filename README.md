@@ -28,7 +28,8 @@ No black boxes – you see how the result is built.
 - **Valuation Engine:** Excel‑based 6‑dimension matrix translated into SQL queries  
 
 📘 [Full Technical Spec V1.3](Technical_Specifications_V1.3_EN.md)  
--  [Business Valuation Matrix](./docs/Business_Valuation_Matrix.xlsx) – see [usage license](./docs/MATRIX_LICENSE.md) 
+-  [Business Valuation Matrix](./docs/Business_Valuation_Matrix.xlsx)
+-  see [usage license](./docs/MATRIX_LICENSE.md) 
 🧠 [ADR – Why SQLite for MVP](ADR_SQLite_MVP.md)
 
 ---
