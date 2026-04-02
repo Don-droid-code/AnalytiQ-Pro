@@ -40,6 +40,7 @@ No black boxes – you see how the result is built.
 - [Technical Specifications V1.3](./docs/Technical_Specifications_V1.3_EN.md)
 - [Technical Specifications V1.4](./docs/Technical_Specifications_V1.4_EN.md)
 - [Environment Setup & Gemini Migration Log](./docs/ENVIRONMENT_SETUP_LOG.md)
+- [Session Master / Project Context](./docs/SESSION_MASTER.md)
 ---
 
 ## 🧭 Roadmap
