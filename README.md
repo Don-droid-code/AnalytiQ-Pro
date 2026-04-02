@@ -17,15 +17,14 @@ No black boxes – you see how the result is built.
 
 ---
 
-## ⚙️ Tech Stack (V1.2)
+## ⚙️ Tech Stack (MVP – V1.4)
 
-## ⚙️ Tech Stack (MVP – V1.3)
-
-- **Frontend:** React / Vue.js  
-- **Backend:** FastAPI (Python)  
-- **Database:** **SQLite** (local `.db` file – easy to version, easy to migrate later)  
-- **AI:** Gemini 1.5 Pro (Google AI Studio)  
-- **Valuation Engine:** Excel‑based 6‑dimension matrix translated into SQL queries  
+- **Orchestrator:** LangGraph (Open‑source)
+- **Intelligence:** Gemini 1.5 Pro / Flash (Google AI Studio)
+- **Database & ORM:** SQLite + SQLAlchemy
+- **Data Validation:** Pydantic
+- **Backend:** FastAPI (Python)
+- **Frontend:** React / Vue.js
 
 📘 [Full Technical Spec V1.3](./docs/Technical_Specifications_V1.3_EN.md)  
 📊 [Business Valuation Matrix](./docs/Business_Valuation_Matrix.xlsx)  
