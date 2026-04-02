@@ -39,6 +39,7 @@ No black boxes – you see how the result is built.
 - [Strategic Memorandum V1.1](./docs/Strategic_Memorandum_V1.1_EN.md)
 - [Technical Specifications V1.2](./docs/Technical_Specifications_V1.2_EN.md)
 - [Technical Specifications V1.3](./docs/Technical_Specifications_V1.3_EN.md)
+- [Technical Specifications V1.4 (PDF)](./docs/spec_v1.4.pdf)
 
 ---
 
