@@ -48,7 +48,8 @@ Le workflow suit un principe de **"Proposer-puis-Exécuter"** :
 ---
 
 ## 4. ÉTAT D'AVANCEMENT : `test_api.py`
-
+**Phase 1 – Kernel** : ✅ Finalisé (3 avril 2026)
+- 10 tables SQLite, Transparency Ledger, seuil matérialité 5%, 63 traps intégrés
 Le fichier `test_api.py` est **100% opérationnel** et sert de preuve de concept (PoC).
 
 - **Succès** : connexion établie avec l'API Google.
