@@ -1,7 +1,9 @@
 # AnalytiQ Pro
 
 **AI‑powered business valuation platform – transparent, educational, open source.**
+
 ![Phase 1](https://img.shields.io/badge/Phase%201-Kernel%20✅-brightgreen)
+
 AnalytiQ Pro merges **data cleaning** and **financial analysis** into a single tool.  
 It helps SMEs, analysts, and students evaluate a business across **6 dimensions**:
 
